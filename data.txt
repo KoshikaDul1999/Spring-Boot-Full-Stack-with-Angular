@@ -1,0 +1,66 @@
+https://bootdey.com/img/Content/avatar/avatar1.png
+https://bootdey.com/img/Content/avatar/avatar2.png
+https://bootdey.com/img/Content/avatar/avatar3.png
+https://bootdey.com/img/Content/avatar/avatar4.png
+https://bootdey.com/img/Content/avatar/avatar5.png
+https://bootdey.com/img/Content/avatar/avatar6.png
+https://bootdey.com/img/Content/avatar/avatar7.png
+https://bootdey.com/img/Content/avatar/avatar8.png
+
+
+{
+	"email":"koshika@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jpbTitle":"JavaScript",
+	"name":"Koshika Dulanjana",
+	"phone":"0778895662"
+}
+{
+	"email":"ashan@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar2.png",
+	"jpbTitle":"Java",
+	"name":"Ashan Indrajith",
+	"phone":"0778123662"
+}
+{
+	"email":"ishara@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png",
+	"jpbTitle":"UI/UX",
+	"name":"Ishara Prasadi",
+	"phone":"0714567892"
+}
+{
+	"email":"sanjeewa@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar4.png",
+	"jpbTitle":"Python",
+	"name":"Sanjeewa Chathuranga",
+	"phone":"0779876543"
+}
+{
+	"email":"gagana@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar5.png",
+	"jpbTitle":"Flutter",
+	"name":"Gagana Chiranjitha",
+	"phone":"0745628950"
+}
+{
+	"email":"milindu@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar6.png",
+	"jpbTitle":"Angular",
+	"name":"Milindu Prabash",
+	"phone":"0764851523"
+}
+{
+	"email":"madhubhashana@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png",
+	"jpbTitle":"Graphic Design",
+	"name":"Dinusha Madhubhashana",
+	"phone":"0741239875"
+}
+{
+	"email":"nethmi@email.com",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar8.png",
+	"jpbTitle":"UI/UX",
+	"name":"Nethmi Rashmika",
+	"phone":"0741217675"
+}
