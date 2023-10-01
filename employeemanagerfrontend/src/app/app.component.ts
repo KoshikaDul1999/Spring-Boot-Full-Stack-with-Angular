@@ -28,4 +28,8 @@ export class AppComponent implements OnInit {
     )
   }
 
+  public onOpenModal(employee: Employee, mode: string): void {
+    const button = document.createElement('button');
+  }
+
 }
